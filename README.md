@@ -71,8 +71,8 @@ Para uma visão completa da arquitetura do projeto, acesse os arquivos abaixo:
 * **[Script Principal (SQL)](./SCRIPTS/Projeto_1_e_commerce_refinado.sql)**
 * **[Descrição do Projeto (TXT)](./DOCS/Projeto_1_e_commerce_refinado.txt)**
 * **[Dicionário de Dados (Metadados)](./SCRIPTS/Metadados_e_Documentação_Projeto_1_e_commerce_refinado.sql)**
-* **[Modelo Lógico (PDF)](./DOCS/Modelo_Logico_Ecommerce_Refinado_Projeto_1.pdf)**
+* **[Modelo Lógico (PDF)](.DOCS/Modelo_Logico_Ecommerce_Refinado_Projeto_1.pdf)**
 * **[Arquivo de Projeto (MWB)](./MODELO/Modelo_Logico_Ecommerce_Refinado_Projeto_1.mwb)**
 
 ### Visualização de Metadados
-![Metadados](./DOCS/Metadados_e_Documentação_Projeto_1_e_commerce_refinado.png)
+![Metadados](.DOCS/Metadados_e_Documentação_Projeto_1_e_commerce_refinado.png)
