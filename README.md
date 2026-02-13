@@ -1,11 +1,10 @@
 
 
-==============================================================
 Projeto Logístico: E-commerce Refinado (Lógico/SQL)  
 Analista: Paulo Roberto                                        
 Base do Projeto: Bootcamp Klabin - Excel e Power BI Dashboards 
 Tecnologia: MySQL Workbench                          
-==============================================================
+
 
 Desafio de Projeto: E-commerce Refinado (Lógico/SQL)
 
